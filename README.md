@@ -5,11 +5,6 @@ Technologies:
 - Swift
 - SwiftUI
 
-Demo Pictures:
+Demo Video:
 
-<span> <img width="438" alt="Screenshot 2023-03-02 at 8 45 39 PM" src="https://user-images.githubusercontent.com/64248502/222618989-1eaf461f-fe45-4e5b-9762-b6a8d06dc8ac.png">
-<img width="438" alt="Screenshot 2023-03-02 at 8 46 22 PM" src="https://user-images.githubusercontent.com/64248502/222618984-5907dff2-7b49-4520-aac8-2d45b17fccad.png">
-</span>
-<span>
-<img width="438" alt="Screenshot 2023-03-02 at 8 45 51 PM" src="https://user-images.githubusercontent.com/64248502/222618987-9633c3aa-f2ca-41a0-8bb5-fa63057f830d.png"> 
-<img width="438" alt="Screenshot 2023-03-02 at 8 46 42 PM" src="https://user-images.githubusercontent.com/64248502/222618980-d254564a-e79c-420d-baae-30bb6cd758a4.png"> </span>
+[GuessTheFlagDemo.MP4.zip](https://github.com/jansulejmani/GuessTheFlag/files/10892857/GuessTheFlagDemo.MP4.zip)
